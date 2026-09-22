@@ -1,14 +1,61 @@
+@font-face {
 
-    h1{
-        font-size: 40px; 
-        color:aquamarine; 
-        font-family: Arial, Helvetica, sans-serif;
-        letter-spacing: 2px;
-    }
-    p{
-        font-size: 25px;
-        font-family:'Courier New', Courier, monospace;
-        letter-spacing: 2px;
-        color: gray;
-        line-height: 35px;   
-    }
+    font-family: "Unbounded";
+    src: url("../fonts/Unbounded-Bold.ttf")
+    format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+
+    font-family: "Poppins";
+    src: url("../fonts/Poppins-Regular.ttf")
+    format("truetype");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+    /*
+        hexadecimal #ff00000
+        nomeada: red
+        rgb(255,0,0)
+    */
+
+body{
+    background-color: #0E1014;
+    color: #FFFFFF;
+}
+    /*
+       class para englobar mais elementos com a mesma cor
+    
+        .cor-branca{
+        color: #FFFFFF;
+        }
+    */
+h1{
+    font-size: 85px;
+    font-family:"Unbounded", sans-serif;
+}
+
+h1 span{
+    color: #9747FF;
+}
+
+p{
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+}
+a{
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    text-decoration: none;
+
+}
