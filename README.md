@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/FEITO%20COM-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=2b2b2b"/>
 </p>
 
-<h1 align="center">🌐 HTML & CSS - Estudos e Mini-Projetos</h1>
+<h1 align="center"> HTML & CSS - Estudos e Mini-Projetos</h1>
 
 <p align="center">
   Repositório desenvolvido para praticar e aprimorar conhecimentos em <strong>HTML5</strong> e <strong>CSS3</strong>.  
