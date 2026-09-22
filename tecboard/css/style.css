@@ -1,0 +1,14 @@
+
+    h1{
+        font-size: 40px; 
+        color:aquamarine; 
+        font-family: Arial, Helvetica, sans-serif;
+        letter-spacing: 2px;
+    }
+    p{
+        font-size: 25px;
+        font-family:'Courier New', Courier, monospace;
+        letter-spacing: 2px;
+        color: gray;
+        line-height: 35px;   
+    }
