@@ -109,7 +109,7 @@ section img{
 }
 
 /* Estilo celular */
-@media(max width: 375px){
+@media (max-width: 375px){
 
     header img{
         margin: 32px 0 0 16px;
